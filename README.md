@@ -12,11 +12,11 @@ Right now it only scrapes data from one page, "go to next page and continue scra
 
 ### Dependencies
 
-- lxml
+- lxml:
 
   pip install lxml
   
-- cssselect
+- cssselect:
 
   pip install cssselect
 
